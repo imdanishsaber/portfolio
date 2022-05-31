@@ -15,7 +15,7 @@ export default {
 <template>
   <!-- About clients section -->
   <div class="mt-10 sm:mt-20">
-    <p
+    <!-- <p
       class="
         font-general-medium
         text-2xl text-center
@@ -32,6 +32,6 @@ export default {
         :key="client.id"
         :client="client"
       />
-    </div>
+    </div> -->
   </div>
 </template>

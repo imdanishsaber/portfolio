@@ -58,7 +58,7 @@ export default {
           text-gray-400
         "
       >
-        A Frontend Engineer, <br> Web3 & Dapps Developer
+        A Frontend Engineer, <br> Web3 & Dapp developer
       </p>
       <div class="flex justify-center sm:block">
         <a

@@ -5,7 +5,7 @@ export default {
   data: () => {
     return {
       projectDomain: "danishsaber.com",
-      projectName: "Web3 & Dapps Developer",
+      projectName: "Web3 & Dapp developer",
       author: "Danish",
     };
   },

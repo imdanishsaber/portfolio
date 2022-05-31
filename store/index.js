@@ -399,7 +399,7 @@ export const state = () => ({
   aboutMe: [
     {
       id: uuidv4(),
-      bio: "I am a skilled Web3 and DAPPS developer with a passion for front-end technologies like Javascript and Vue.js. I can help you in Wallets integration, Smart Contract integration, Website development, DAPP development. Including NFT minting, Token presale rounds & Staking functionalities.",
+      bio: "I am a skilled Web3 and Dapp developer with a passion for front-end technologies like Javascript and Vue.js. I can help you in Wallets integration, Smart Contract integration, Website development, DAPP development. Including NFT minting, Token presale rounds & Staking functionalities.",
     },
     {
       id: uuidv4(),

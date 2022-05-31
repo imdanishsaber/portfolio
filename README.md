@@ -1,4 +1,4 @@
-# Web3 & Dapps Developer - With Dark Mode
+# Web3 & Dapp developer - With Dark Mode
 
 A simple portfolio starter theme built with Nuxt.js and TailwindCSS. This is the Nuxt version of the [Vuejs-&-TailwindCSS-Portfolio](https://github.com/imdanishsaber/portfolio)
 
