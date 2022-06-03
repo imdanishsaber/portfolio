@@ -30,6 +30,15 @@ export default {
       { name: "twitter:description", content: "I am a skilled Web3 and Dapp developer with a passion for front-end technologies like Javascript and Vue.js. I can help you in Wallets integration, Smart Contract integration, Website development, DAPP development. Including NFT minting, Token presale rounds & Staking functionalities." },
     ],
     link: [{ rel: "icon", type: "image/x-icon", href: "/favicon.ico" }],
+    script: [
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-6VP71J26WV",
+        async: true,
+      },
+      {
+        src: "js/ga.js",
+      }
+    ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -48,7 +57,7 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     "@nuxtjs/tailwindcss",
     "@nuxtjs/color-mode",
-    '@nuxtjs/google-analytics',
+    // '@nuxtjs/google-analytics',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -56,8 +65,8 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
-  
-  googleAnalytics: {
-    id: 'G-6VP71J26WV'
-  }
+
+  // googleAnalytics: {
+  //   id: 'G-6VP71J26WV'
+  // }
 };
