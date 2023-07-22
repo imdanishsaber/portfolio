@@ -8,7 +8,7 @@ export default {
       contacts: [
         {
           id: 1,
-          name: "Islamabad - Punjab, Pakistan",
+          name: "Adelaide, South Australia 5268, Australia",
           icon: "map-pin",
         },
         {
@@ -18,7 +18,7 @@ export default {
         },
         {
           id: 3,
-          name: "+92 345 699 4485",
+          name: "+61 408 850 447",
           icon: "phone",
         },
       ],
@@ -43,7 +43,7 @@ export default {
     "
   >
     <!-- Contact form -->
-    <ContactForm />
+    <!-- <ContactForm /> -->
 
     <!-- Contact details -->
     <ContactDetails :contacts="contacts" />

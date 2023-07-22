@@ -399,11 +399,11 @@ export const state = () => ({
   aboutMe: [
     {
       id: uuidv4(),
-      bio: "I am a skilled Web3 and Dapp developer with a passion for front-end technologies like Javascript and Vue.js. I can help you in Wallets integration, Smart Contract integration, Website development, DAPP development. Including NFT minting, Token presale rounds & Staking functionalities.",
+      bio: "As a professional Software developer, I am adept at creating large-scale single-page applications and landing websites using Vue.js, (as well as other frontend frameworks), JavaScript and Typescript.",
     },
     {
       id: uuidv4(),
-      bio: "Frontend developer with expertise in requirement gathering and analysis, architectural design, component and interface design and development for web-based applications in multiple domains.",
+      bio: "Over the course of 5+ years, I have honed my expertise in web technologies, leveraging my skills in JavaScript, typescript, Vue.js and HTML/CSS/Tailwind CSS to create and deliver outstanding user experiences.",
     },
     {
       id: uuidv4(),
@@ -416,7 +416,7 @@ export const state = () => ({
       id: uuidv4(),
       name: "Whatsapp",
       icon: "phone-call",
-      url: "//wa.link/zaxbv5",
+      url: "https://wa.link/gjkln4",
     },
     {
       id: uuidv4(),

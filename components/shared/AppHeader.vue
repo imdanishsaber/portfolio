@@ -156,13 +156,14 @@ export default {
       >
         <!-- Hire me button -->
         <div class="font-general-medium hidden md:block">
-          <button
+          <NuxtLink
+            to="/contact"
             class="text-md bg-indigo-500 hover:bg-indigo-600 text-white shadow-sm rounded-md px-5 py-2.5"
-            @click="showModal()"
             aria-label="Hire Me Button"
           >
+            <!-- @click="showModal()" -->
             Hire Me
-          </button>
+          </NuxtLink>
         </div>
 
         <!-- Theme switcher large screen -->

@@ -51,10 +51,10 @@ export default {
             dark:text-secondary-light
             mb-2
           "
-          >2k</span
+          >150+</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
-          >Stars on GitHub</span
+          >Active Clients</span
         >
       </div>
 
@@ -69,7 +69,7 @@ export default {
             dark:text-secondary-light
             mb-2
           "
-          >100+</span
+          >140+</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
           >Positive feedback</span
@@ -87,7 +87,7 @@ export default {
             dark:text-secondary-light
             mb-2
           "
-          >130+</span
+          >140+</span
         >
         <span class="block text-md text-ternary-dark dark:text-ternary-light"
           >Projects completed</span
